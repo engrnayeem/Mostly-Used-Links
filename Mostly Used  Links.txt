@@ -1,3 +1,10 @@
 https://www.html5webtemplates.co.uk/templates/
 https://www.youtube.com/watch?v=KnuaVfi5MFU
 https://fontawesome.com/v4/examples/
+https://fontawesome.com/search?m=free&s=solid%2Cregular%2Cbrands
+https://cdnjs.com/libraries/font-awesome
+https://www.w3schools.com/css/css_font.asp
+https://www.w3schools.com/css/css_icons.asp
+https://www.w3schools.com/css/css_link.asp
+https://www.w3schools.com/css/css_float.asp
+https://www.w3schools.com/css/css_inline-block.asp
