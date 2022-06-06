@@ -25,5 +25,7 @@ https://www.w3schools.com/css/css3_2dtransforms.asp
 https://www.w3schools.com/css/css3_3dtransforms.asp
 https://www.w3schools.com/css/tryit.asp?filename=trycss_tooltip_arrow_bottom
 Mozila Responsive shortcut=ctrl+shift+m
-Fonts Ninja
+Fonts Ninja plug in  for find website  font from browser extension from browser setting
+alt+f4=pc off option.
+
 
