@@ -29,5 +29,6 @@ Fonts Ninja plug in  for find website  font from browser extension from browser 
 alt+f4=pc off option.
 https://flexboxfroggy.com/
 ColorZilla-->https://www.colorzilla.com/chrome/
+Google Responsive Shortcut=ctrl+shift+i
 
 
