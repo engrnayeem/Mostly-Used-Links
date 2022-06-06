@@ -28,5 +28,6 @@ Mozila Responsive shortcut=ctrl+shift+m
 Fonts Ninja plug in  for find website  font from browser extension from browser setting
 alt+f4=pc off option.
 https://flexboxfroggy.com/
+ColorZilla-->https://www.colorzilla.com/chrome/
 
 
