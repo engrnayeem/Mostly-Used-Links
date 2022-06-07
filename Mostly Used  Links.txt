@@ -30,5 +30,6 @@ alt+f4=pc off option.
 https://flexboxfroggy.com/
 ColorZilla-->https://www.colorzilla.com/chrome/
 Google Responsive Shortcut=ctrl+shift+i
+https://www.w3schools.com/css/css3_flexbox_container.asp
 
 
