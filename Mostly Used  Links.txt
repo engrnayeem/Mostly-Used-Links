@@ -31,5 +31,8 @@ https://flexboxfroggy.com/
 ColorZilla-->https://www.colorzilla.com/chrome/
 Google Responsive Shortcut=ctrl+shift+i
 https://www.w3schools.com/css/css3_flexbox_container.asp
+https://www.youtube.com/watch?v=SjYYfd7obug&ab_channel=KevinPowell
+https://chrome.google.com/webstore/detail/measure-it/jocbgkoackihphodedlefohapackjmna
+
 
 
