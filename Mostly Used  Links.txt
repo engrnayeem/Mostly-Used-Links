@@ -39,6 +39,7 @@ https://www.free-css.com/assets/files/free-css-templates/preview/page272/mundana
 https://www.free-css.com/assets/files/free-css-templates/preview/page273/digigram/
 https://www.free-css.com/assets/files/free-css-templates/preview/page272/xtra-blog/
 https://www.w3schools.com/w3css/default.asp
+media query is used for making responsive anything in website.
 
 
 
