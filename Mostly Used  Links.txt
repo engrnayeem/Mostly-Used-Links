@@ -43,6 +43,10 @@ https://www.w3schools.com/w3css/default.asp
 https://www.w3schools.com/bootstrap5/bootstrap_get_started.php
 https://www.w3schools.com/bootstrap5/bootstrap_tables.php
 https://www.w3schools.com/bootstrap5/bootstrap_utilities.php
+https://getbootstrap.com/docs/5.0/utilities/background/
+https://www.w3schools.com/bootstrap5/bootstrap_buttons.php
+https://www.w3schools.com/bootstrap5/bootstrap_jumbotron.php
+https://www.w3schools.com/bootstrap5/bootstrap_alerts.php
 
 
 
