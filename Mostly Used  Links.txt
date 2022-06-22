@@ -53,5 +53,7 @@ https://getbootstrap.com/docs/5.0/components/modal/
 shift+tab=to create white space and for code indentation for any type of programming.
 
 
+https://getbootstrap.com/docs/5.0/components/card/
+
 
 
