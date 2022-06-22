@@ -55,5 +55,11 @@ shift+tab=to create white space and for code indentation for any type of program
 
 https://getbootstrap.com/docs/5.0/components/card/
 
+https://www.w3schools.com/bootstrap5/bootstrap_typography.php
+https://stackoverflow.com/questions/2325850/h1-h6-font-sizes-in-html
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
 
 
