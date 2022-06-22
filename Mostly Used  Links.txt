@@ -50,6 +50,8 @@ https://www.w3schools.com/bootstrap5/bootstrap_alerts.php
 
 https://getbootstrap.com/docs/5.0/components/modal/
 
+shift+tab=to create white space and for code indentation for any type of programming.
+
 
 
 
