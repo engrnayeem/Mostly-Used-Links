@@ -33,13 +33,6 @@ Google Responsive Shortcut=ctrl+shift+i
 https://www.w3schools.com/css/css3_flexbox_container.asp
 https://www.youtube.com/watch?v=SjYYfd7obug&ab_channel=KevinPowell
 https://chrome.google.com/webstore/detail/measure-it/jocbgkoackihphodedlefohapackjmna
-https://www.photopea.com/?fbclid=IwAR29y-dad65uDZNA1Rq8bOSR5ku21lgZyPXkPSg2Cvk5UddFBJqbdAjX8W4
-
-for forward indentation use tab
-
-for backword indentation use shift+tab
-
-for menually open workspace explorer  of vs code shortcut ctrl+b
 
 https://drive.google.com/drive/folders/1-J2p97_AeypGaBp990epjoe9RYEtBHU2?fbclid=IwAR02KhYJX-Dxe9sExq8uCKTR82RitApEDwhDvnBz9PmABqqfzGKSGzRc0rE
 https://drive.google.com/drive/folders/1-SolW45mCQPuKHa18v8TQMxqaM-5Qp3u
@@ -70,6 +63,16 @@ https://stackoverflow.com/questions/2325850/h1-h6-font-sizes-in-html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 https://getbootstrap.com/docs/5.0/forms/form-control/
+
+
+https://www.photopea.com/?fbclid=IwAR29y-dad65uDZNA1Rq8bOSR5ku21lgZyPXkPSg2Cvk5UddFBJqbdAjX8W4
+
+for forward indentation use tab
+
+for backword indentation use shift+tab
+
+for menually open workspace explorer  of vs code shortcut ctrl+b
+
 
 
 
