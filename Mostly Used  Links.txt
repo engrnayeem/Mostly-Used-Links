@@ -73,6 +73,12 @@ for backword indentation use shift+tab
 
 for menually open workspace explorer  of vs code shortcut ctrl+b
 
+Github readme file documentation describe below formate:
+Source Code: https://shiponsaha839.github.io/Projact-2/
+Web View: https://shiponsaha839.github.io/Projact-2/ 
+Refarence:https://lisawynn.com/
+Technology:HTML, CSS, Boortstrap,Javascript.
+
 
 
 
